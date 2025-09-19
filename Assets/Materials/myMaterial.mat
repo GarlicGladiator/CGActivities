@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: myMaterial
-  m_Shader: {fileID: 4800000, guid: 4bd4e24f054738c46a427c163b53bba8, type: 3}
+  m_Shader: {fileID: 4800000, guid: c11fe1db714e55c44baf47521e42dfe2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -47,6 +47,10 @@ Material:
     - _EmissionMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvCube:
+        m_Texture: {fileID: 8900000, guid: c9b91929f93a7814c9b6000d9b47336f, type: 2}
+        m_Scale: {x: 9.13, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 0}
@@ -96,7 +100,11 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _EnvBlend: 1
+    - _EnvIntensity: 1
     - _EnvironmentReflections: 1
+    - _FresnelBoost: 1
+    - _FresnelPow: 5
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
@@ -105,6 +113,8 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _RimPower: 2.39
+    - _RimStrength: 0.271
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -117,6 +127,7 @@ Material:
     - _BaseColor: {r: 0.84705883, g: 0.18679234, b: 0.18679234, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0.8643588, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
