@@ -1,6 +1,8 @@
 # CGActivity1
 
-![screenshot](https://github.com/GarlicGladiator/CGActivity1/blob/a4811bbf4cdc89ee10de0b9a5dacdf8723ac9f6b/Screenshot%202025-09-19%20170643.png)
+![sceneview](https://github.com/GarlicGladiator/CGActivity1/blob/a4811bbf4cdc89ee10de0b9a5dacdf8723ac9f6b/Screenshot%202025-09-19%20170643.png)
+![materials](https://github.com/GarlicGladiator/CGActivity1/blob/332fea88b9a4bde3cea58d4ae7909df0ff53e587/Screenshot%202025-09-19%20174124.png)
+![code]()
 
 Today I got to see how some shaders worked and what it is like to implement them. During class, I was able to implement the regular one (which was just applying a texture and a color), the Rim lighting one, and the reflection one. I then copy and pasted Alvaro's code for the world position one to see what it look like but I did not type that one myself. 
 
