@@ -29,8 +29,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Ammount: 1
+    - _Amount: 0.05
+    - _Amplitude: 3.64
+    - _CutoutThresh: 0.692
+    - _Distance: 3.79
+    - _Speed: 9.65
     - _Transparency: 0.5
     m_Colors:
-    - _TintColor: {r: 0, g: 0.019981766, b: 0.4188679, a: 1}
+    - _TintColor: {r: 0.93207544, g: 0.043940198, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
