@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_Hologram
-  m_Shader: {fileID: 4800000, guid: c582a21c5a31ba64f9c1c528cc61a9af, type: 3}
+  m_Name: TextureBlending
+  m_Shader: {fileID: 4800000, guid: b1ed615ff459a1648afd5f003e6efb99, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,19 +24,12 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
-        m_Scale: {x: 5, y: 5}
+        m_Texture: {fileID: 2800000, guid: 5f115370b811eb64ba37618aef25d05c, type: 3}
+        m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _Ammount: 1
-    - _Amount: 0.05
-    - _Amplitude: 3.64
-    - _CutoutThresh: 0.692
-    - _Distance: 3.79
-    - _Speed: 9.65
-    - _Transparency: 0.5
+    m_Floats: []
     m_Colors:
-    - _TintColor: {r: 0.93207544, g: 0.043940198, b: 0, a: 1}
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
