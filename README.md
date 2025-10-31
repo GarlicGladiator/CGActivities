@@ -1,7 +1,9 @@
-# CGActivity1
+# CGActivity2
 
-![sceneview](https://github.com/GarlicGladiator/CGActivity1/blob/a4811bbf4cdc89ee10de0b9a5dacdf8723ac9f6b/Screenshot%202025-09-19%20170643.png)
-![materials](https://github.com/GarlicGladiator/CGActivity1/blob/332fea88b9a4bde3cea58d4ae7909df0ff53e587/Screenshot%202025-09-19%20174124.png)
-![code](https://github.com/GarlicGladiator/CGActivity1/blob/4a2633221b804e4fbf5558fb240b05018db0feec/Screenshot%202025-09-19%20174447.png)
+![shaderShowCase](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20163724.png)
+![trees](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20153323.png)
+![transparency](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20160450.png)
+![stencil](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20163625.png)
 
+I got most of the shaders today to work. I could not really tell what the metalic shader is doing when I applied it. The way I relate this shader in my head is what I do substance painter and how metalic works in PBR there. The shader doesn't exactly have the same effect that what I imagined. I do understand PBR though The hologram shader looks really nice. I like the emission it gives off and the stripes effect. I also happened to have another hologram shader that I made outside of class from a youtube tutorial that makes the hologram wobble around (thats the red helmet in my screenshot). The transparency shader also worked and I used a job application because it had black and white. The text parts of that was transparent but it doesn't show well in the screenshot. The trees with the transparency shader was really fascinating. Nowadays, Unity automatically makes it transparent but when I changed the material, I was able to see what it would look like without the shader. The decal one worked well too and I applied this character I had onto a wall. The stencil shader made me think the most about its application. I was toying with the idea of destructable objects in my GDW game and this might be the route I take to achieving that. I am nervous about having to apply it on my own though.
 
