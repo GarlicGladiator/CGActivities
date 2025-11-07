@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SimpleShadowWithTintedShadow
-  m_Shader: {fileID: 4800000, guid: dc190b89a9d64d64ba8f935374b3bd36, type: 3}
+  m_Name: Glass
+  m_Shader: {fileID: 4800000, guid: e289f353555c1c648bfaae6e3e444014, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,13 +23,21 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: f6e6cc20cb6bb134cbaa86e2b92fa269, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: bb901491af44ccd4289ca7970c09aed6, type: 3}
+        m_Texture: {fileID: 10305, guid: 0000000000000000f000000000000000, type: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _BumpExtrusion: 0.043
+    - _FresnelIntensity: 1.79
+    - _ScaleUV: 8.7
+    - _TintIntensity: 1
     m_Colors:
-    - _ShadowTint: {r: 0.24347156, g: 0.19846918, b: 0.4716981, a: 1}
+    - _EmissionColor: {r: 0, g: 0.97735846, b: 0.9289946, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
