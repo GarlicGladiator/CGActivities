@@ -1,4 +1,4 @@
-# CGActivity2
+# CGActivity3
 
 ![shaderShowCase](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20163724.png)
 ![trees](https://github.com/GarlicGladiator/CGActivities/blob/dcf71ee917b7c8f4ef04735c9414ddf915cf132b/Screenshot%202025-10-31%20153323.png)
